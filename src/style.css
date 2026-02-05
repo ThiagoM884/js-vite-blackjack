@@ -1,0 +1,35 @@
+ body {
+    margin: 0;
+    background-color: #2f4f30;
+    color: white;
+}
+
+h1,h2,p,div {
+    padding: 0;
+    margin: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+
+.header--title {
+    background-color: #000;
+    text-align: center;
+    padding: 10px;
+    text-transform: uppercase;
+}
+
+.carta {
+    margin-top:10px;
+    width: 150px;
+    position: relative;
+    left:50px;
+    margin-left: -50px;
+}
+
+
+span {
+    font-size: 1.6rem;
+}
